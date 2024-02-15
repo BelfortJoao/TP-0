@@ -27,11 +27,6 @@ If you wish to contribute to this project, follow these steps:
 4. Faça push para o branch (`git push origin feature/sua-feature`) / Push to the branch (`git push origin feature/your-feature`).
 5. Abra um Pull Request / Open a Pull Request.
 
-## Contato / Contact
-
-- **Nome / Name:** [Seu Nome / Your Name]
-- **Email:** [Seu Email / Your Email]
-
 ## Licença / License
 
 Este projeto está licenciado sob a [MIT License](LICENSE) / This project is licensed under the [MIT License](LICENSE).
